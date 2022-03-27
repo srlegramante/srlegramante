@@ -1,5 +1,6 @@
 ## Olá eu sou o Erik Legramante 
 
+<a href="https://github.com/srlegramante">
 <div align="center">
   <a href="https://github.com/ErikLegramante">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srlegramante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -26,4 +27,4 @@
   
 </div>
   
- ![Snake animation](https://github.com/srlegramante/legramante/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/srlegramante/srlegramante/blob/output/github-contribution-grid-snake.svg)
