@@ -30,4 +30,4 @@
   
 </div>
   
-  ![Snake animation](https://github.com/Catalendas/srlegramante/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/srlegramante/srlegramante/blob/output/github-contribution-grid-snake.svg)
