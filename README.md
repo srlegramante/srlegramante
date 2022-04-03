@@ -2,7 +2,7 @@
 
 - 🔭 No momento trabalhando, porem em busca de algo na area de segurança e desenvolvimento ...
 - 🌱 Estou estudando Cyber security, Ionic 5, mysql
-- 
+
 <a href="https://github.com/srlegramante">
 <div align="center">
   <a href="https://github.com/ErikLegramante">
