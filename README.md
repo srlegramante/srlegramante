@@ -30,3 +30,4 @@
   
 </div>
   
+  ![Snake animation](https://github.com/Catalendas/srlegramante/blob/output/github-contribution-grid-snake.svg)
