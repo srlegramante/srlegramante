@@ -1,7 +1,7 @@
 ## Olá eu sou o Erik Legramante 
 
 - 🔭 No momento trabalhando, porem em busca de algo na area de segurança, ioinc e desenvolvimento ...
-- 🌱 Estou estudando Cyber security, Ionic 6, mysql e Python
+- 🌱 Estou estudando Cyber security, Ionic 5(typescript), mysql e Python
 
 <a href="https://github.com/srlegramante">
 <div align="center">
