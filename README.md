@@ -1,7 +1,7 @@
 ## Olá eu sou o Erik Legramante 
 
-- 🔭 No momento trabalhando, porêm em busca de algo na área de segurança da informação e desenvolvimento em python...
-- 🌱 Estou estudando Cyber security, mysql e Python.
+- 🔭 No momento trabalhando, porém em busca de algo na área de desenvolvimento em python, mas ainda sim com interesse em aprender coisas novas também!...
+- 🌱 Estou estudando mysql e Python.
 
 <a href="https://github.com/srlegramante">
 <div align="center">
