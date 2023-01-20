@@ -1,7 +1,8 @@
 ## Olá eu sou o Erik Legramante 
 
-- 🔭 No momento trabalhando, porém em busca de algo na área de desenvolvimento em python, mas ainda sim com interesse em aprender coisas novas também!...
+- 🔭 No momento trabalhando, porém em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais ainda sim com interesse em aprender coisas novas também!...
 - 🌱 Estou estudando mysql e Python.
+- 🌱 Já usei HTML E CSS para desenvolvimento de websites.
 
 <a href="https://github.com/srlegramante">
 <div align="center">
