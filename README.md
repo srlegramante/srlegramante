@@ -1,6 +1,6 @@
 ## Hi there!
 
-- 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais ainda sim com interesse em aprender coisas novas também!...
+- 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais, com interesse em aprender coisas novas também!...
 - 🌱 Estou estudando mysql e Python.
 - 🌱 Já usei HTML E CSS para desenvolvimento de websites.
 ----------------------------------------------------------
