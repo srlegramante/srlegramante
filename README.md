@@ -1,12 +1,12 @@
 ## Hi there!
 
 - 🔭 Em busca de uma oportunidade na área de desenvolvimento de sistemas, redes, pentest, e além do mais, com interesse em aprender coisas novas também!...
-- 🌱 Estou estudando mysql e Python.
+- 🌱 Estou estudando CyberSecurity e Python.
 - 🌱 Já usei HTML E CSS para desenvolvimento de websites.
 ----------------------------------------------------------
 
 - 🔭 In search of opportunity in development System, nets, pentest, futhermore with interest to learn new things too!... 
-- 🌱 I'm studying mysql and Python at the moment.
+- 🌱 I'm studying CyberSecurity and Python at the moment.
 - 🌱 I already used HTML and CSS to development websites.
 
 <a href="https://github.com/srlegramante">
