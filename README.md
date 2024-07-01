@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">I ❤️ Utilizo a tecnologia como ferramenta para criar um ambiente mais seguro e protegido. <br><br> Estudante de tecnologia.</p>&nbsp;
+<p align="center"> 🔐🔰 Utilizo a tecnologia como ferramenta para criar um ambiente mais seguro e protegido. <br><br> Estudante de tecnologia.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=srlegramante&theme=radical&mode=weekly" />
